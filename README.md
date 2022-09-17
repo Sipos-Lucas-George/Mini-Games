@@ -1,2 +1,4 @@
 # Mini-Games
-Nostalgic mini games
+### Nostalgic mini games:
+- Battleship
+- Hangman
